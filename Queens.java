@@ -1,7 +1,4 @@
 // Queens.java
-// rrupani
-// Rhea Rupani
-// pa5
 // This program will find n Queens solution.
 
 import java.util.Scanner;
